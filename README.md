@@ -15,6 +15,8 @@ PUT-Hand-MechanicalDesign repository contains all detailed mechanical design fil
 
 ## License
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
 Unless stated otherwise, PUT-Hand project elements are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). Accompanying firmware and software are licensed under a [MIT License](https://opensource.org/licenses/MIT).
 
 When using PUT-Hand design files, firmware, software, or utilising project as a whole please cite:
